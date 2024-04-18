@@ -1,0 +1,27 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Computer Science",
+    "author": [
+        {
+            "type": "Person",
+            "familyName": "Pan",
+            "givenName": "Peter"
+        }
+    ],
+    "codeRepository": "https://github.com/JSadowska/testLille",
+    "dateCreated": "2024-04-18",
+    "description": "Mon super test ",
+    "funder": {
+        "type": "Organization",
+        "name": "ANR "
+    },
+    "keywords": "test logiciel Software Heritage",
+    "license": "https://spdx.org/licenses/AGPL-3.0",
+    "name": "Test logiciel ",
+    "operatingSystem": "Linux",
+    "programmingLanguage": "Python",
+    "runtimePlatform": "JVM",
+    "version": "1.0.0",
+    "developmentStatus": "active"
+}
