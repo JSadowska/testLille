@@ -4,24 +4,39 @@
     "applicationCategory": "Computer Science",
     "author": [
         {
+            "id": "_:author_1",
             "type": "Person",
+            "email": "peter.pan@wonderland.org",
             "familyName": "Pan",
             "givenName": "Peter"
+        },
+        {
+            "id": "_:author_2",
+            "type": "Person",
+            "email": "c.hook@wonderland.org",
+            "familyName": "Hook",
+            "givenName": "Captain"
+        },
+        {
+            "id": "_:author_3",
+            "type": "Person",
+            "email": "w.darling@wonderland.org",
+            "familyName": "Darling",
+            "givenName": "Wendy"
         }
     ],
-    "codeRepository": "https://github.com/JSadowska/testLille",
-    "dateCreated": "2024-04-18",
-    "description": "Mon super test ",
-    "funder": {
-        "type": "Organization",
-        "name": "ANR "
-    },
-    "keywords": "test logiciel Software Heritage",
+    "codeRepository": "https://github.com/JSadowska/deposit-exampleHal_SWH",
+    "dateCreated": "2024-06-06",
+    "description": "Software for the wonderland team",
+    "keywords": [
+        "software",
+        "wonderland",
+        "fantasy"
+    ],
     "license": "https://spdx.org/licenses/AGPL-3.0",
-    "name": "Test logiciel ",
+    "name": "The wonderland app",
     "operatingSystem": "Linux",
     "programmingLanguage": "Python",
-    "runtimePlatform": "JVM",
-    "version": "1.0.0",
-    "developmentStatus": "active"
+    "runtimePlatform": "Runtime Platform",
+    "version": "1.0.0"
 }
